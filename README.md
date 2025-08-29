@@ -71,5 +71,5 @@
 
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="300" alt="kawaii gif"/>
+  <img src="[https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width](https://pin.it/7x5r2wBF5)="600" alt="kawaii gif"/>
 </p>
