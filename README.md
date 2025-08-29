@@ -19,7 +19,7 @@
 ---
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&color=9370DB&size=22&width=900&center=true&lines=プログラマー)
 
----
+
 ## 💖 Sobre mim  
 - 🎀 Tenho **17 anos** e moro em **João Pessoa - PB**  
 - 📘 Concluí o **Técnico em Assistência Administrativa** pelo SENAI  
