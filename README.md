@@ -37,25 +37,24 @@
 ✨ **C e C++** ⚙️  
 ✨ **HTML & CSS** 🌐  
 
----
-## 🍓 Interesses  
-- 📚 Amo estudar **Matemática Olímpica**  
+---## 🟣 Interesses  
+- 📖 Amo estudar **Matemática Olímpica**  
 - 🥋 Pratico **Jiu-jitsu**, desenvolvendo disciplina e resiliência  
-- 📖 Gosto de ler **livros, mangás e HQs**  
+- 📚 Gosto de ler **livros, mangás e HQs**  
 - 🎮 Amo assistir **filmes** e jogar ✨  
 
-## 🌸 Redes sociais  
+## 🟣 Redes sociais  
 [![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samira.zw)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-pontes-6a9916253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
-## 🦄 GitHub Stats  
+## 🟣 GitHub Stats  
 ![Samira GitHub stats](https://github-readme-stats.vercel.app/api?username=samira083&show_icons=true&theme=dark-purple)
 
 ---
 
-## 🔥 Skills  
+## 🟣 Skills  
 <div style="display: flex; gap: 20px;">
   
   <div style="flex-basis: 48%;">
@@ -72,6 +71,7 @@
     <img align="center" alt="VScode" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
 </div>
+
 
 
 <p align="center">
