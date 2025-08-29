@@ -17,7 +17,7 @@
 </p>
 
 ---
-<p align="center">
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&color=9370DB&size=22&width=900&center=true&lines=プログラマー)
 
 
