@@ -8,7 +8,7 @@
 <p>
   Hi 👋, me chamo Samira! Uma estudante apaixonado por Ciência de Dados do Brasil.
 
-  - 🌱Atualmente estou estudando Ciência de Dados e Ciência da Computação na UNIPÊ <img align="center" alt="html5" src="[https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPphRaFzcVihkMC_HtQxDYp6jVrNO8TysMSg&s)" />
+  - 🌱Atualmente estou estudando Ciência de Dados e Ciência da Computação na UNIPÊ <img align="center" alt="html5" src="[C:\Users\samir\OneDrive\Área de Trabalho\imagem unipê.png)" />
 
   - 🔭Estou em busca da minha primeira oportunidade de emprego
 </p>
