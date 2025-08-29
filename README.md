@@ -69,9 +69,7 @@
   </div>
 </div>
 
----
 
-## 🐱✨ GIF Kawaii  
 <p align="center">
   <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="300" alt="kawaii gif"/>
 </p>
