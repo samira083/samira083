@@ -38,7 +38,9 @@
 ✨ **C e C++** ⚙️  
 ✨ **HTML & CSS** 🌐  
 
----## 🟣 Interesses  
+---
+
+## 🟣 Interesses  
 - 📖 Amo estudar **Matemática Olímpica**  
 - 🥋 Pratico **Jiu-jitsu**, desenvolvendo disciplina e resiliência  
 - 📚 Gosto de ler **livros, mangás e HQs**  
