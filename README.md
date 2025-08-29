@@ -71,5 +71,5 @@
 
 
 <p align="center">
-  <img src="[https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width](https://pin.it/7x5r2wBF5)="600" alt="kawaii gif"/>
+  ![Lofi Kawaii Rosa](https://i.pinimg.com/originals/6b/5d/2a/6b5d2a1e9f8d4e3c8b9d6b3b3f3b3b3b.gif)
 </p>
