@@ -38,23 +38,20 @@
 ✨ **HTML & CSS** 🌐  
 
 ---
-
 ## 🍓 Interesses  
 - 📚 Amo estudar **Matemática Olímpica**  
 - 🥋 Pratico **Jiu-jitsu**, desenvolvendo disciplina e resiliência  
 - 📖 Gosto de ler **livros, mangás e HQs**  
 - 🎮 Amo assistir **filmes** e jogar ✨  
 
----
-
 ## 🌸 Redes sociais  
-[![Instagram](https://img.shields.io/badge/Instagram-ff9fd6?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samira.zw)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-b0a8f0?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-pontes-6a9916253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Instagram](https://img.shields.io/badge/Instagram-4B0082?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samira.zw)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4B0082?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samira-pontes-6a9916253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
 ## 🦄 GitHub Stats  
-![Samira GitHub stats](https://github-readme-stats.vercel.app/api?username=samira083&show_icons=true&theme=tokyonight)
+![Samira GitHub stats](https://github-readme-stats.vercel.app/api?username=samira083&show_icons=true&theme=dark-purple)
 
 ---
 
@@ -76,7 +73,6 @@
   </div>
 </div>
 
----
 
 <p align="center">
   <img src="[https://i.pinimg.com/originals/6b/5d/2a/6b5d2a1e9f8d4e3c8b9d6b3b3f3b3b3b.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExenN2ZWc2ZzZoM2h3ODJkM3RhYmFnOHlnajBzYmY5MGxmcmV3Zm84ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13Z5kstwARnPna/giphy.gif)" width="500" alt="kawaii gif"/>
