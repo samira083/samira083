@@ -17,7 +17,7 @@
 </p>
 
 ---
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&color=6a0dad&size=22&width=900&center=true&lines=Oi!+Sou+a+Samira;Tenho+17+anos+e+moro+em+João+Pessoa;Estudo+Ciência+da+Computação;Bem-vindo+ao+meu+perfil!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&color=6a0dad&size=22&width=900&center=true&lines=programadora XD)
 
 
 ---
