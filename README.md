@@ -6,6 +6,7 @@
 
 <!-- Presentation -->
 <p align="center">
+    <b>`プログラマ`</b>
   🌺 Oii, me chamo <strong>Samira</strong>!  
   Sou uma estudante apaixonada por <strong>Ciência da Computação</strong> e sempre curiosa para aprender coisas novas! 💻💕
 </p>
