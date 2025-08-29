@@ -8,7 +8,7 @@
 <p>
   Hi 👋, me chamo Samira! Uma estudante apaixonado por Ciência de Dados do Brasil.
 
-  - 🌱Atualmente estou estudando Ciência de Dados e Ciência da Computação na UNIPÊ <img align="center" alt="html5" src="[C:\Users\samir\OneDrive\Área de Trabalho\imagem unipê.png)" />
+  - 🌱Atualmente estou estudando Ciência de Dados e Ciência da Computação na UNIPÊ
 
   - 🔭Estou em busca da minha primeira oportunidade de emprego
 </p>
