@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2&height=150&section=header&text=Bem%20vindo%20ao%20meu%20perfil&fontSize=70&fontColor=ffffff&animation=twinkling)
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=6a0dad"/>
+</p>
 
 
 
