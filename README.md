@@ -1,12 +1,11 @@
 <!-- título -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">🌸✨ Hello World ✨🌸</h1></summary>
+    <summary><h1 style="display: inline-block">   <b>`プログラマ`</b> 🌸✨ Hello World ✨🌸</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p align="center">
-    <b>`プログラマ`</b>
   🌺 Oii, me chamo <strong>Samira</strong>!  
   Sou uma estudante apaixonada por <strong>Ciência da Computação</strong> e sempre curiosa para aprender coisas novas! 💻💕
 </p>
