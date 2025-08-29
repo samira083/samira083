@@ -17,9 +17,8 @@
 </p>
 
 ---
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=6a0dad&width=900&size=22&center=true&lines=Oi!+Sou+a+Samira;Tenho+17+anos+e+moro+em+João+Pessoa;Estudo+Ciência+da+Computação;Bem-vindo+ao+meu+perfil!" alt="Typing SVG"/>
-</div>
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Iosevka&color=6a0dad&size=22&width=900&center=true&lines=Oi!+Sou+a+Samira;Tenho+17+anos+e+moro+em+João+Pessoa;Estudo+Ciência+da+Computação;Bem-vindo+ao+meu+perfil!)
+
 
 ---
 ## 💖 Sobre mim  
