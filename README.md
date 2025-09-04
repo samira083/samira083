@@ -68,7 +68,8 @@
 ---
 
 ## 🟣 GitHub Stats  
-![Samira GitHub stats](https://github-readme-stats.vercel.app/api?username=samira083&show_icons=true&theme=dark-purple)
+![Samira GitHub stats](https://github-readme-stats.vercel.app/api?username=samira083&show_icons=true&title_color=6a0dad&icon_color=6a0dad&text_color=cccccc&border_color=6a0dad&bg_color=00000000&hide_border=true
+)
 
 ---
 
