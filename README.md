@@ -59,9 +59,9 @@
   <br>
 
   [![Gmail](https://img.shields.io/badge/Gmail-6a0dad?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samira.zw083@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-194d45?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/samira.zw/?next=%2F)
-  [![Discord](https://img.shields.io/badge/Discord-194d45?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8k2)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-194d45?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.lin2a3b33a/](https://www.linkedin.com/in/samira-pontes-6a9916253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+  [![Instagram](https://img.shields.io/badge/Instagram-6a0dad?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/samira.zw/?next=%2F)
+  [![Discord](https://img.shields.io/badge/Discord-6a0dad?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.gg/8k2)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=fff)]([https://www.lin2a3b33a/](https://www.linkedin.com/in/samira-pontes-6a9916253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
   
 </div>
 
