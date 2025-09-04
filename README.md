@@ -66,9 +66,11 @@
 </div>
 
 ---
-
+<div align="center">
 ## 🟣 GitHub Stats  
 ![Samira GitHub stats](https://github-readme-stats.vercel.app/api?username=samira083&show_icons=true&theme=purple)
+
+</div>
 ---
 
 ## 🟣 Skills  
