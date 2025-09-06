@@ -36,7 +36,7 @@
 
 ## 🌈 Habilidades Técnicas  
 ✨ **Python** 🐍  
-✨ **C e C++** ⚙️  
+✨ **C ** ⚙️  
 ✨ **HTML & CSS** 🌐  
 
 ---
