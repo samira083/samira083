@@ -24,28 +24,28 @@
 ## 💖 Sobre mim  
 - 🎀 Tenho **17 anos** e moro em **João Pessoa - PB**  
 - 📘 Concluí o **Técnico em Assistência Administrativa** pelo SENAI  
-- 🎓 Atualmente curso **Ciência da Computação (UNIPÊ)**  
+- 🎓 Atualmente cursando **Ciência da Computação (UNIPÊ) 3 período**
+- ✅ curso completo de javascript 
 
 ---
 
 ## 🧸 Experiência  
 - 🌟 Atuei como **Jovem Aprendiz** e adquiri vivência no mundo profissional  
-- 🐍 Já participei de **projetos acadêmicos em Python**, aplicando lógica e criatividade  
+- 🐍 Já participei de **projetos acadêmicos em Python, JS, html e CSS**, aplicando lógica e criatividade  
 
 ---
 
 ## 🌈 Habilidades Técnicas  
 ✨ **Python** 🐍  
 ✨ **C** ⚙️  
-✨ **HTML & CSS** 🌐  
+✨ **HTML & CSS** 🌐
+✨ **JAVASCRIPT**
 
 ---
 
 ## 🟣 Interesses  
 - 📖 Amo estudar **Matemática Olímpica**  
-- 🥋 Pratico **Jiu-jitsu**, desenvolvendo disciplina e resiliência  
-- 📚 Gosto de ler **livros, mangás e HQs**  
-- 🎮 Amo assistir **filmes** e jogar ✨  
+- 🥋 Pratico **Jiu-jitsu**, desenvolvendo disciplina e resiliência    
 
 ## 🟣 Redes sociais  
 
