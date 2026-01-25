@@ -31,7 +31,7 @@
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Python, C, JavaScript, HTML, CSS  
+- **Languages:** Python, C, JavaScript, HTML, CSS, PHP 
 - **Tools:** Git, GitHub, VS Code  
 - **Concepts:** Algorithms, logic, UI development, basic data structures
 
