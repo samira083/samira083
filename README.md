@@ -53,4 +53,7 @@
   <a href="https://www.linkedin.com/in/samira-pontes-6a9916253">
     <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://drive.google.com/file/d/1H2vwvezS2wV2-F0DM0QAaYrKKJL26Co1/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Currículo-6a0dad?style=for-the-badge&logo=readthedocs&logoColor=white">
+  </a>
 </p>
