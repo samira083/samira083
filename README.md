@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-6a0dad?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="LINK_DO_SEU_CURRICULO_AQUI" target="_blank">
+<a href="https://drive.google.com/file/d/1H2vwvezS2wV2-F0DM0QAaYrKKJL26Co1/view?usp=sharing" target="_blank">
   <img src="https://img.shields.io/badge/Resume-6a0dad?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
 </a>
 
