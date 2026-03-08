@@ -59,7 +59,7 @@
 </a>
 
 
-<a href="http://127.0.0.1:5500/Portfolio-Samira/index.html" target="_blank">
+<a href="https://tourmaline-fox-3c4e51.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/Portfólio-6a0dad?style=for-the-badge&logo=githubpages&logoColor=white"/>
 </a>
 
